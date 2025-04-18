@@ -8,3 +8,14 @@ Playlist Link :- https://www.youtube.com/watch?v=P65WxiAjySs&list=PLDzeHZWIZsTr3
 Lectures Covered :- 
 
 Lecture 1,2,3 
+
+Lec 24 , 25 
+
+Difference between internal and external fragmentation 
+
+
+Internal Fragmentation :-  You have more than you need , you have enough space and the process is small for the fixed size block 
+                            mostly happens in fixed fragmentation 
+External Fragmentation :-  You have enough space but cannot allocate memory because space is not contiguous , 
+                            This happens mainly when compaction/defragmentation has not taken place and you dont have enough space to allocate the process
+                            at the moment 
