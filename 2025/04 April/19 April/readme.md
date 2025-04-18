@@ -12,3 +12,9 @@ with note down
 
 
 will note down whatever lectures am watching 
+
+
+
+
+In these videos i asked GPT , that is the Page cache used by kafka and Page Table mentioned here the same , 
+to which it replied no its not the same at all and are differnt , Page cache  stores offfsets of frequently access disk locations 
