@@ -21,9 +21,9 @@ to which it replied no its not the same at all and are differnt , Page cache  st
 
 
 
-Lec : 27 -> paging , page table frames 
-Lec 28 : -> segmentation 
-Lec 29 -> Virtual Memory Swapping 
+Lec : 26 -> paging , page table frames 
+Lec 27 : -> segmentation 
+Lec 28 -> Virtual Memory Swapping 
 Lec 29 -> page replacement algo , FIFO belady's anomaly , LRU ,LFU ,MFU
 Lec 30 -> Thrashing , more swap and low cpu util 
 
